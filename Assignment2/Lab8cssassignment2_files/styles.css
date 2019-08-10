@@ -1,0 +1,40 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	line-height: 2em;
+	width: 960px;
+	margin: 0 auto;
+}
+h1, h2 {
+	color: #CC1C0D;
+	font-size: 1.2em;
+	background-color: #DFE3E6;
+	border: 1px solid #929CA4;
+	padding: 3PX 0 3PX 5PX;
+	border-radius: 0 0 5px 0;
+	}
+p a  {
+		color: #CC1C0D;
+}
+nav p a, .selected   {
+	font-size: 1.2em;
+	text-decoration: none;
+	font-weight: bold;
+}
+.selected {
+		color: black;
+}
+nav p a:hover {
+	color: black;
+}
+.solutions p img{
+		float: left;
+		padding: 10px 10px 0 0;
+}
+#google:hover {
+	color: black;
+	text-decoration: none;
+}
+	
+}
+
