@@ -1,0 +1,29 @@
+body {
+	width: 960px;
+	font-family: Ariel, Helvetica, sans-sarif;
+	font-size: 1em;
+	line-height: 2em;
+	margin: 0 0 0 20px;
+	background-color: #EDEDED;
+}
+
+h2{	
+	font-size:1em;
+	border: 1px solid #929CA4;
+	border-radius: 5px;
+	padding-left: 10px;
+	color: #CC1C0D;
+}
+
+p:first-of-type{
+	:first-letter{
+		font-size: 30px;
+	}
+}
+
+.solution{ 
+	font-weight: bold;
+	color: #CC1C0D;
+}
+
+/*.testimonial1*/

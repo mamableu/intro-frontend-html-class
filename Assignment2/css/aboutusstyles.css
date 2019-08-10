@@ -1,0 +1,47 @@
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	line-height: 2em;
+	width: 960px;
+	margin: 0 auto;
+}
+h1{
+	font-size: 1.2em;
+	color: #CC1C0D;
+	background-color: #DFE3E6;
+	border: 1px solid #929CA4;
+	padding: 3px 0 3px 5px;
+	border-radius: 0 0 5px 0;
+}
+nav p a	{
+	color: #CC1C0D;
+	font-size: 1.2em;
+	text-decoration: none;
+	font-weight: bold;
+}
+.selected{
+	color: black;
+}
+nav p a:hover{
+	color: black;
+}
+a[href*="@vectacorp"]{
+	color:  #CC1C0D;
+	text-decoration: none;
+	font-weight: bold;
+}
+a[href*="@vectacorp"]:hover{
+	color:black;
+}
+p strong{
+	color: #CC1C0D;
+}
+section img{
+	float: left;
+	padding: 0 30px 0 0; 
+}
+strong {
+	font-size: 1.2em;
+}
+	
